@@ -42,9 +42,9 @@
 
         <!-- H2 Database for Tests -->
         <dependency>
-            <groupId>com.h2database</groupId>
-            <artifactId>h2</artifactId>
-            <scope>test</scope>
+             <groupId>com.h2database</groupId>
+             <artifactId>h2</artifactId>
+            <scope>runtime</scope>
         </dependency>
 
         <!-- MySQL Database -->
